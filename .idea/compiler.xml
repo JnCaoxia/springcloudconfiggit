@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="springcloudconfiggit" />
+        <module name="springcloudconfigserver" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springcloudconfiggit" target="1.8" />
+      <module name="springcloudconfigserver" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

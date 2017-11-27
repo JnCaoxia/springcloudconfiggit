@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloudConfigGit.iml" filepath="$PROJECT_DIR$/.idea/SpringCloudConfigGit.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudconfiggit/springcloudconfiggit.iml" filepath="$PROJECT_DIR$/springcloudconfiggit/springcloudconfiggit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudconfiggit/springcloudconfigserver.iml" filepath="$PROJECT_DIR$/springcloudconfiggit/springcloudconfigserver.iml" />
     </modules>
   </component>
 </project>
