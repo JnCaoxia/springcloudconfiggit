@@ -23,6 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="springcloudconfiggit" />
+      </profile>
+      <profile default="false" name="Annotation profile for spring-cloud-config-server" enabled="true">
+        <sourceOutputDir name="../springcloudconfiggit/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../springcloudconfiggit/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
         <module name="springcloudconfigserver" />
       </profile>
     </annotationProcessing>
