@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloudConfigGit.iml" filepath="$PROJECT_DIR$/.idea/SpringCloudConfigGit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudconfigclient/springcloudconfigclient.iml" filepath="$PROJECT_DIR$/springcloudconfigclient/springcloudconfigclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudconfiggit/springcloudconfiggit.iml" filepath="$PROJECT_DIR$/springcloudconfiggit/springcloudconfiggit.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudconfigserver/springcloudconfigserver.iml" filepath="$PROJECT_DIR$/springcloudconfigserver/springcloudconfigserver.iml" />
     </modules>
