@@ -23,20 +23,19 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="springcloudconfigclient" />
-        <module name="springcloudconfiggit" />
-      </profile>
-      <profile default="false" name="Annotation profile for spring-cloud-config-server" enabled="true">
-        <sourceOutputDir name="../springcloudconfiggit/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../springcloudconfiggit/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
+        <module name="springcloudconfigclienteureka" />
         <module name="springcloudconfigserver" />
+        <module name="springcloudconfigservereureka" />
+        <module name="springcloudeureka" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springcloudconfigclient" target="1.8" />
+      <module name="springcloudconfigclienteureka" target="1.8" />
       <module name="springcloudconfiggit" target="1.8" />
       <module name="springcloudconfigserver" target="1.8" />
+      <module name="springcloudconfigservereureka" target="1.8" />
+      <module name="springcloudeureka" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

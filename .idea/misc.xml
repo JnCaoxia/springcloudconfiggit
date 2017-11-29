@@ -6,9 +6,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/springcloudconfiggit/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudconfigserver/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudconfigclient/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudconfigservereureka/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudeureka/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloudconfigclienteureka/pom.xml" />
       </list>
     </option>
   </component>
