@@ -25,6 +25,7 @@
         <module name="springcloudconfigclient" />
         <module name="springcloudconfigclienteureka" />
         <module name="springcloudconfigserver" />
+        <module name="springcloudconfigserver2eureka" />
         <module name="springcloudconfigservereureka" />
         <module name="springcloudeureka" />
       </profile>
@@ -34,6 +35,7 @@
       <module name="springcloudconfigclienteureka" target="1.8" />
       <module name="springcloudconfiggit" target="1.8" />
       <module name="springcloudconfigserver" target="1.8" />
+      <module name="springcloudconfigserver2eureka" target="1.8" />
       <module name="springcloudconfigservereureka" target="1.8" />
       <module name="springcloudeureka" target="1.8" />
     </bytecodeTargetLevel>

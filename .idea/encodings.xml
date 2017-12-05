@@ -3,9 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/springcloudconfigclient" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudconfigclienteureka" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springcloudconfiggit" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/springcloudconfiggit" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudconfigserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudconfigserver2eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudconfigservereureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudeureka" charset="UTF-8" />
   </component>

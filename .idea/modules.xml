@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/springcloudconfigclient/springcloudconfigclient.iml" filepath="$PROJECT_DIR$/springcloudconfigclient/springcloudconfigclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudconfigclienteureka/springcloudconfigclienteureka.iml" filepath="$PROJECT_DIR$/springcloudconfigclienteureka/springcloudconfigclienteureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudconfigserver/springcloudconfigserver.iml" filepath="$PROJECT_DIR$/springcloudconfigserver/springcloudconfigserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudconfigserver2eureka/springcloudconfigserver2eureka.iml" filepath="$PROJECT_DIR$/springcloudconfigserver2eureka/springcloudconfigserver2eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudconfigservereureka/springcloudconfigservereureka.iml" filepath="$PROJECT_DIR$/springcloudconfigservereureka/springcloudconfigservereureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudeureka/springcloudeureka.iml" filepath="$PROJECT_DIR$/springcloudeureka/springcloudeureka.iml" />
     </modules>
