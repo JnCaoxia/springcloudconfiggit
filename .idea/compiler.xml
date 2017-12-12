@@ -22,6 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="gatewayservicezuulsimple" />
         <module name="springcloudconfigclient" />
         <module name="springcloudconfigclienteureka" />
         <module name="springcloudconfigclienteureka2" />
@@ -33,6 +34,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="gatewayservicezuulsimple" target="1.8" />
       <module name="springcloudconfigclient" target="1.8" />
       <module name="springcloudconfigclienteureka" target="1.8" />
       <module name="springcloudconfigclienteureka2" target="1.8" />
