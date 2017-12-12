@@ -24,6 +24,8 @@
         <processorPath useClasspath="true" />
         <module name="springcloudconfigclient" />
         <module name="springcloudconfigclienteureka" />
+        <module name="springcloudconfigclienteureka2" />
+        <module name="springcloudconfigclienteureka3" />
         <module name="springcloudconfigserver" />
         <module name="springcloudconfigserver2eureka" />
         <module name="springcloudconfigservereureka" />
@@ -33,6 +35,8 @@
     <bytecodeTargetLevel>
       <module name="springcloudconfigclient" target="1.8" />
       <module name="springcloudconfigclienteureka" target="1.8" />
+      <module name="springcloudconfigclienteureka2" target="1.8" />
+      <module name="springcloudconfigclienteureka3" target="1.8" />
       <module name="springcloudconfiggit" target="1.8" />
       <module name="springcloudconfigserver" target="1.8" />
       <module name="springcloudconfigserver2eureka" target="1.8" />

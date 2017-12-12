@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.caox</groupId>
-	<artifactId>spring-cloud-config-client-eureka</artifactId>
+	<artifactId>spring-cloud-config-client-eureka2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spring-cloud-config-client-eureka</name>
+	<name>spring-cloud-config-client-eureka2</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
