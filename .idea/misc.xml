@@ -12,12 +12,12 @@
         <option value="$PROJECT_DIR$/springcloudeureka/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudconfigclienteureka/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudconfigserver2eureka/pom.xml" />
-        <option value="$PROJECT_DIR$/springcloudconfigclienteureka2/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudconfigclienteureka3/pom.xml" />
         <option value="$PROJECT_DIR$/gatewayservicezuulsimple/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudproducer/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudproducer2/pom.xml" />
         <option value="$PROJECT_DIR$/gatewayservicezuuleureka/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootHelloWorld/pom.xml" />
       </list>
     </option>
   </component>
