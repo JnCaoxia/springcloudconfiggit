@@ -18,6 +18,7 @@
         <option value="$PROJECT_DIR$/springcloudproducer2/pom.xml" />
         <option value="$PROJECT_DIR$/gatewayservicezuuleureka/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBootHelloWorld/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootJpaThymeLeafCURD/pom.xml" />
       </list>
     </option>
   </component>

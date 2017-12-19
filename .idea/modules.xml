@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringBootHelloWorld/SpringBootHelloWorld.iml" filepath="$PROJECT_DIR$/SpringBootHelloWorld/SpringBootHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootJpaThymeLeafCURD/SpringBootJpaThymeLeafCURD.iml" filepath="$PROJECT_DIR$/SpringBootJpaThymeLeafCURD/SpringBootJpaThymeLeafCURD.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloudConfigGit.iml" filepath="$PROJECT_DIR$/.idea/SpringCloudConfigGit.iml" />
       <module fileurl="file://$PROJECT_DIR$/gatewayservicezuuleureka/gatewayservicezuuleureka.iml" filepath="$PROJECT_DIR$/gatewayservicezuuleureka/gatewayservicezuuleureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/gatewayservicezuulsimple/gatewayservicezuulsimple.iml" filepath="$PROJECT_DIR$/gatewayservicezuulsimple/gatewayservicezuulsimple.iml" />
