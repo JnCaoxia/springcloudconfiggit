@@ -26,6 +26,7 @@
         <module name="gatewayservicezuulsimple" />
         <module name="SpringBootHelloWorld" />
         <module name="SpringBootJpaThymeLeafCURD" />
+        <module name="SpringBootWebDemo" />
         <module name="springcloudconfigclient" />
         <module name="springcloudconfigclienteureka" />
         <module name="springcloudconfigclienteureka2" />
@@ -43,6 +44,8 @@
       <module name="gatewayservicezuulsimple" target="1.8" />
       <module name="SpringBootHelloWorld" target="1.8" />
       <module name="SpringBootJpaThymeLeafCURD" target="1.8" />
+      <module name="SpringBootWeb" target="1.8" />
+      <module name="SpringBootWebDemo" target="1.8" />
       <module name="springcloudconfigclient" target="1.8" />
       <module name="springcloudconfigclienteureka" target="1.8" />
       <module name="springcloudconfigclienteureka2" target="1.8" />
