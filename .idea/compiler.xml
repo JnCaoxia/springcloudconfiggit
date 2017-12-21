@@ -27,6 +27,7 @@
         <module name="SpringBootHelloWorld" />
         <module name="SpringBootJpaThymeLeafCURD" />
         <module name="SpringBootMybatisAnnotation" />
+        <module name="SpringBootMyBatisMuliDateSource" />
         <module name="SpringBootMybatisXML" />
         <module name="SpringBootWebDemo" />
         <module name="springcloudconfigclient" />
@@ -47,6 +48,7 @@
       <module name="SpringBootHelloWorld" target="1.8" />
       <module name="SpringBootJpaThymeLeafCURD" target="1.8" />
       <module name="SpringBootMybatisAnnotation" target="1.8" />
+      <module name="SpringBootMyBatisMuliDateSource" target="1.8" />
       <module name="SpringBootMybatisXML" target="1.8" />
       <module name="SpringBootWeb" target="1.8" />
       <module name="SpringBootWebDemo" target="1.8" />
