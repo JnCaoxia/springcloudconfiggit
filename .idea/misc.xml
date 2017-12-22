@@ -25,6 +25,7 @@
         <option value="$PROJECT_DIR$/SpringBootMyBatisMuliDateSource/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBootMybatisMuliDateSourceAnnotation/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBootRabbitMq/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootScheduler/pom.xml" />
       </list>
     </option>
   </component>
