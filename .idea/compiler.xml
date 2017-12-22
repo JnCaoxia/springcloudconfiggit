@@ -30,6 +30,7 @@
         <module name="SpringBootMyBatisMuliDateSource" />
         <module name="SpringBootMybatisMuliDateSourceAnnotation" />
         <module name="SpringBootMybatisXML" />
+        <module name="SpringBootRabbitMq" />
         <module name="SpringBootWebDemo" />
         <module name="springcloudconfigclient" />
         <module name="springcloudconfigclienteureka" />
@@ -52,6 +53,7 @@
       <module name="SpringBootMyBatisMuliDateSource" target="1.8" />
       <module name="SpringBootMybatisMuliDateSourceAnnotation" target="1.8" />
       <module name="SpringBootMybatisXML" target="1.8" />
+      <module name="SpringBootRabbitMq" target="1.8" />
       <module name="SpringBootWeb" target="1.8" />
       <module name="SpringBootWebDemo" target="1.8" />
       <module name="springcloudconfigclient" target="1.8" />
