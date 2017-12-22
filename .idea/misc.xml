@@ -23,6 +23,7 @@
         <option value="$PROJECT_DIR$/SpringBootMybatisXML/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBootMybatisAnnotation/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBootMyBatisMuliDateSource/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootMybatisMuliDateSourceAnnotation/pom.xml" />
       </list>
     </option>
   </component>

@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/SpringBootJpaThymeLeafCURD/SpringBootJpaThymeLeafCURD.iml" filepath="$PROJECT_DIR$/SpringBootJpaThymeLeafCURD/SpringBootJpaThymeLeafCURD.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootMyBatisMuliDateSource/SpringBootMyBatisMuliDateSource.iml" filepath="$PROJECT_DIR$/SpringBootMyBatisMuliDateSource/SpringBootMyBatisMuliDateSource.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootMybatisAnnotation/SpringBootMybatisAnnotation.iml" filepath="$PROJECT_DIR$/SpringBootMybatisAnnotation/SpringBootMybatisAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootMybatisMuliDateSourceAnnotation/SpringBootMybatisMuliDateSourceAnnotation.iml" filepath="$PROJECT_DIR$/SpringBootMybatisMuliDateSourceAnnotation/SpringBootMybatisMuliDateSourceAnnotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootMybatisXML/SpringBootMybatisXML.iml" filepath="$PROJECT_DIR$/SpringBootMybatisXML/SpringBootMybatisXML.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootWebDemo/SpringBootWebDemo.iml" filepath="$PROJECT_DIR$/SpringBootWebDemo/SpringBootWebDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloudConfigGit.iml" filepath="$PROJECT_DIR$/.idea/SpringCloudConfigGit.iml" />
