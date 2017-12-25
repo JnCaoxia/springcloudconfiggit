@@ -26,6 +26,7 @@
         <module name="gatewayservicezuulsimple" />
         <module name="SpringBootHelloWorld" />
         <module name="SpringBootJpaThymeLeafCURD" />
+        <module name="SpringBootMail" />
         <module name="SpringBootMybatisAnnotation" />
         <module name="SpringBootMyBatisMuliDateSource" />
         <module name="SpringBootMybatisMuliDateSourceAnnotation" />
@@ -33,7 +34,6 @@
         <module name="SpringBootRabbitMq" />
         <module name="SpringBootScheduler" />
         <module name="SpringBootWebDemo" />
-        <module name="springcloudconfigclient" />
         <module name="springcloudconfigclienteureka" />
         <module name="springcloudconfigclienteureka2" />
         <module name="springcloudconfigclienteureka3" />
@@ -50,6 +50,7 @@
       <module name="gatewayservicezuulsimple" target="1.8" />
       <module name="SpringBootHelloWorld" target="1.8" />
       <module name="SpringBootJpaThymeLeafCURD" target="1.8" />
+      <module name="SpringBootMail" target="1.8" />
       <module name="SpringBootMybatisAnnotation" target="1.8" />
       <module name="SpringBootMyBatisMuliDateSource" target="1.8" />
       <module name="SpringBootMybatisMuliDateSourceAnnotation" target="1.8" />

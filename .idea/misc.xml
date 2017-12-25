@@ -7,7 +7,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/springcloudconfigserver/pom.xml" />
-        <option value="$PROJECT_DIR$/springcloudconfigclient/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudconfigservereureka/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudeureka/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudconfigclienteureka/pom.xml" />
@@ -26,6 +25,7 @@
         <option value="$PROJECT_DIR$/SpringBootMybatisMuliDateSourceAnnotation/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBootRabbitMq/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBootScheduler/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootMail/pom.xml" />
       </list>
     </option>
   </component>

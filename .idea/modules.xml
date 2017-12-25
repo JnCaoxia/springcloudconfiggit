@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringBootHelloWorld/SpringBootHelloWorld.iml" filepath="$PROJECT_DIR$/SpringBootHelloWorld/SpringBootHelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootJpaThymeLeafCURD/SpringBootJpaThymeLeafCURD.iml" filepath="$PROJECT_DIR$/SpringBootJpaThymeLeafCURD/SpringBootJpaThymeLeafCURD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootMail/SpringBootMail.iml" filepath="$PROJECT_DIR$/SpringBootMail/SpringBootMail.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootMyBatisMuliDateSource/SpringBootMyBatisMuliDateSource.iml" filepath="$PROJECT_DIR$/SpringBootMyBatisMuliDateSource/SpringBootMyBatisMuliDateSource.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootMybatisAnnotation/SpringBootMybatisAnnotation.iml" filepath="$PROJECT_DIR$/SpringBootMybatisAnnotation/SpringBootMybatisAnnotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootMybatisMuliDateSourceAnnotation/SpringBootMybatisMuliDateSourceAnnotation.iml" filepath="$PROJECT_DIR$/SpringBootMybatisMuliDateSourceAnnotation/SpringBootMybatisMuliDateSourceAnnotation.iml" />
@@ -14,7 +15,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloudConfigGit.iml" filepath="$PROJECT_DIR$/.idea/SpringCloudConfigGit.iml" />
       <module fileurl="file://$PROJECT_DIR$/gatewayservicezuuleureka/gatewayservicezuuleureka.iml" filepath="$PROJECT_DIR$/gatewayservicezuuleureka/gatewayservicezuuleureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/gatewayservicezuulsimple/gatewayservicezuulsimple.iml" filepath="$PROJECT_DIR$/gatewayservicezuulsimple/gatewayservicezuulsimple.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springcloudconfigclient/springcloudconfigclient.iml" filepath="$PROJECT_DIR$/springcloudconfigclient/springcloudconfigclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudconfigclienteureka/springcloudconfigclienteureka.iml" filepath="$PROJECT_DIR$/springcloudconfigclienteureka/springcloudconfigclienteureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudconfigclienteureka2/springcloudconfigclienteureka2.iml" filepath="$PROJECT_DIR$/springcloudconfigclienteureka2/springcloudconfigclienteureka2.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudconfigclienteureka3/springcloudconfigclienteureka3.iml" filepath="$PROJECT_DIR$/springcloudconfigclienteureka3/springcloudconfigclienteureka3.iml" />
