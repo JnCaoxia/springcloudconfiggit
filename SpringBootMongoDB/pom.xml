@@ -78,6 +78,7 @@
 					<compilerVersion>1.8</compilerVersion>
 					<source>1.8</source>
 					<target>1.8</target>
+					
 				</configuration>
 			</plugin>
 		</plugins>
