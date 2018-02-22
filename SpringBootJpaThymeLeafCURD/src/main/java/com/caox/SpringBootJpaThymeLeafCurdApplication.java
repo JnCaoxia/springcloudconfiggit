@@ -5,6 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 
+/**
+ * 启动类需要添加Servlet的支持
+ */
 @SpringBootApplication
 public class SpringBootJpaThymeLeafCurdApplication extends SpringBootServletInitializer{
 	@Override
