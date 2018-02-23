@@ -36,7 +36,6 @@ public class UploadController {
             Path path = Paths.get(UPLOADED_FOLDER + file.getOriginalFilename());
 
             Files.write(path, bytes);
-
             redirectAttributes.addFlashAttribute("message",
                     "You successfully uploaded '" + file.getOriginalFilename() + "'");
 
