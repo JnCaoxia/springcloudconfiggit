@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringBootFileUpload/SpringBootFileUpload.iml" filepath="$PROJECT_DIR$/SpringBootFileUpload/SpringBootFileUpload.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootHelloWorld/SpringBootHelloWorld.iml" filepath="$PROJECT_DIR$/SpringBootHelloWorld/SpringBootHelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootJpaThymeLeafCURD/SpringBootJpaThymeLeafCURD.iml" filepath="$PROJECT_DIR$/SpringBootJpaThymeLeafCURD/SpringBootJpaThymeLeafCURD.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootMail/SpringBootMail.iml" filepath="$PROJECT_DIR$/SpringBootMail/SpringBootMail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootMongoDB/SpringBootMongoDB.iml" filepath="$PROJECT_DIR$/SpringBootMongoDB/SpringBootMongoDB.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootMyBatisMuliDateSource/SpringBootMyBatisMuliDateSource.iml" filepath="$PROJECT_DIR$/SpringBootMyBatisMuliDateSource/SpringBootMyBatisMuliDateSource.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootMybatisAnnotation/SpringBootMybatisAnnotation.iml" filepath="$PROJECT_DIR$/SpringBootMybatisAnnotation/SpringBootMybatisAnnotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootMybatisMuliDateSourceAnnotation/SpringBootMybatisMuliDateSourceAnnotation.iml" filepath="$PROJECT_DIR$/SpringBootMybatisMuliDateSourceAnnotation/SpringBootMybatisMuliDateSourceAnnotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootMybatisXML/SpringBootMybatisXML.iml" filepath="$PROJECT_DIR$/SpringBootMybatisXML/SpringBootMybatisXML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootPackageWar/SpringBootPackageWar.iml" filepath="$PROJECT_DIR$/SpringBootPackageWar/SpringBootPackageWar.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootRabbitMq/SpringBootRabbitMq.iml" filepath="$PROJECT_DIR$/SpringBootRabbitMq/SpringBootRabbitMq.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootScheduler/SpringBootScheduler.iml" filepath="$PROJECT_DIR$/SpringBootScheduler/SpringBootScheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBootShiro/SpringBootShiro.iml" filepath="$PROJECT_DIR$/SpringBootShiro/SpringBootShiro.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBootWebDemo/SpringBootWebDemo.iml" filepath="$PROJECT_DIR$/SpringBootWebDemo/SpringBootWebDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloudConfigGit.iml" filepath="$PROJECT_DIR$/.idea/SpringCloudConfigGit.iml" />
       <module fileurl="file://$PROJECT_DIR$/gatewayservicezuuleureka/gatewayservicezuuleureka.iml" filepath="$PROJECT_DIR$/gatewayservicezuuleureka/gatewayservicezuuleureka.iml" />
