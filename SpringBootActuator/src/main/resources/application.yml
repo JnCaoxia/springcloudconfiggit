@@ -1,0 +1,28 @@
+server:
+  port: 8080
+management:
+  security:
+    enabled: false #关掉安全认证
+  port: 8088 #管理端口调整成8088
+  context-path: /monitor #actuator的访问路径
+endpoints:
+  shutdown:
+    enabled: true
+
+info:
+   app:
+      name: spring-boot-actuator
+      version: 1.0.0
+
+
+# management.security.enabled=false默认有一部分信息需要安全验证之后才可以查看，如果去掉这些安全认证，直接设置management.security.enabled=false
+
+# management.context-path=/monitor 代表启用单独的url地址来监控Spring Boot应用，为了安全一般都启用独立的端口来访问后端的监控信息
+
+# endpoints.shutdown.enabled=true 启用接口关闭Spring Boot
+
+# endpoints.mappings.sensitive=false 鉴权为false的，表示不敏感，可以随意访问
+
+# management.security.enabled=false 敏感方法默认是需要用户拥有ACTUATOR角色，因此，也可以设置关闭安全限制
+
+# endpoints.metrics.enabled = false 比如要禁用 /metrics 接口，则可以设置如下
