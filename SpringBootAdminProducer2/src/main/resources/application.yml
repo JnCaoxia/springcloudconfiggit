@@ -1,0 +1,30 @@
+server:
+  port: 9001
+spring:
+  application:
+    name: producer2
+  mail:
+        host: smtp.qq.com
+        username:
+        password:
+        properties:
+          mail:
+            smtp:
+              auth: true
+              starttls:
+                  enable: true
+                  required: true
+        boot:
+            admin:
+              notify:
+                mail:
+                  from:
+                  to:
+        default-encoding: UTF-8
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8000/eureka/
+management:
+  security:
+    enabled: false
