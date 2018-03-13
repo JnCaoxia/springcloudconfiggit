@@ -1,0 +1,6 @@
+org.springframework.context.ApplicationListener=com.example.demo.ApplicationEnvironmentPreparedEventListener,\
+  com.example.demo.ApplicationFailedEventListener,\
+  com.example.demo.ApplicationPreparedEventListener,\
+  com.example.demo.ApplicationReadyEventListener,\
+  com.example.demo.ApplicationStartedEventListener,\
+  com.example.demo.ApplicationStartingEventListener
