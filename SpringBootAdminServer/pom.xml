@@ -39,6 +39,12 @@
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-eureka</artifactId>
+			<version>1.4.3.RELEASE</version>
+		</dependency>
+		<!--增加了邮件发送的starter包-->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-mail</artifactId>
 		</dependency>
 		<!--Admin Server端-->
 		<dependency>
@@ -50,11 +56,6 @@
 			<groupId>de.codecentric</groupId>
 			<artifactId>spring-boot-admin-server-ui</artifactId>
 			<version>1.5.6</version>
-		</dependency>
-		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
-			<scope>test</scope>
 		</dependency>
 		<!--Admin Server端-->
 	</dependencies>
