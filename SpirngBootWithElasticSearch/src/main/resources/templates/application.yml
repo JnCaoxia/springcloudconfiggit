@@ -1,0 +1,15 @@
+server:
+  port: 7081
+
+spring:
+ elasticsearch:
+    jest:
+      uris:
+      - http://192.168.80.145:9200
+      read-timeout: 5000
+
+#spring:
+#    data:
+#       elasticsearch: #ElasticsearchProperties
+#           cluster-name: elasticsearch #默认即为elasticsearch
+#           cluster-nodes: 192.168.80.145:9200 #配置es节点信息，逗号分隔，如果没有指定，则启动ClientNode
